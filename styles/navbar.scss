@@ -8,9 +8,6 @@
   max-height: 40px;
 }
 
-.navbarTop .social-media {
-  margin: 40px 0;
-}
 
 .navbarTop .social-media img {
   margin-left: 25px;
@@ -66,6 +63,7 @@
 
 .navbar-earlycollapse {
   @media (max-width: 991px) {
+    
     .navbar-header, .navbar-nav, .navbar-nav>li {
       float: none;
     }
@@ -88,4 +86,5 @@
     }
   }
 }
+
   
