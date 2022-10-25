@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Elipse_21" data-name="Elipse 21" cx="9" cy="9" r="9" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Trazado_56" data-name="Trazado 56" d="M0,0H18.387V18.387H0Z" fill="rgba(0,0,0,0.7)"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_27" data-name="Enmascarar grupo 27" clip-path="url(#clip-path)">
+    <g id="cl" transform="translate(-0.193 -0.363)" clip-path="url(#clip-path-2)">
+      <path id="Trazado_52" data-name="Trazado 52" d="M255.8,0h18.387V9.192H255.8Z" transform="translate(-246.613)" fill="#fff" fill-rule="evenodd"/>
+      <path id="Trazado_53" data-name="Trazado 53" d="M0,0H9.192V9.192H0Z" fill="#0039a6" fill-rule="evenodd"/>
+      <path id="Trazado_54" data-name="Trazado 54" d="M67.7,68.554,66.27,67.487l-1.414,1.077.527-1.751-1.414-1.082,1.749-.016.545-1.746.553,1.743h1.751l-1.411,1.095.54,1.749Z" transform="translate(-61.671 -61.671)" fill="#fff" fill-rule="evenodd"/>
+      <path id="Trazado_55" data-name="Trazado 55" d="M0,255.8H27.579V265H0Z" transform="translate(0 -246.613)" fill="#d52b1e" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

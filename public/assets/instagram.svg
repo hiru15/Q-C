@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="320px" viewBox="0 0 320 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>instagram</title>
+    <g id="HOME" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Menu-logged" transform="translate(0.000000, -959.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="instagram" transform="translate(0.000000, 959.000000)">
+                <path d="M220,0 L100,0 C44.78,0 0,44.78 0,100 L0,220 C0,275.22 44.78,320 100,320 L220,320 C275.22,320 320,275.22 320,220 L320,100 C320,44.78 275.22,0 220,0 Z M290,220 C290,258.6 258.6,290 220,290 L100,290 C61.4,290 30,258.6 30,220 L30,100 C30,61.4 61.4,30 100,30 L220,30 C258.6,30 290,61.4 290,100 L290,220 Z" id="Shape"></path>
+                <path d="M160,80 C115.82,80 80,115.82 80,160 C80,204.18 115.82,240 160,240 C204.18,240 240,204.18 240,160 C240,115.82 204.18,80 160,80 Z M160,210 C132.44,210 110,187.56 110,160 C110,132.42 132.44,110 160,110 C187.56,110 210,132.42 210,160 C210,187.56 187.56,210 160,210 Z" id="Shape"></path>
+                <circle id="Oval" cx="246" cy="74" r="10.66"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

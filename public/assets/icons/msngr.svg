@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="50px" viewBox="0 0 51 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>messenger</title>
+    <g id="MY-ACCOUNT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Referidos" transform="translate(-774.000000, -391.000000)" fill-rule="nonzero">
+            <g id="Path" transform="translate(774.666667, 391.000000)">
+                <path d="M25,0 C11.19375,0 0,10.3625 0,23.146875 C0,30.43125 3.634375,36.928125 9.315625,41.171875 L9.315625,50 L17.828125,45.328125 C20.1,45.95625 22.50625,46.296875 25,46.296875 C38.80625,46.296875 50,35.934375 50,23.15 C50,10.3625 38.80625,0 25,0 Z" fill="#1E88E5"></path>
+                <polygon fill="#FAFAFA" points="27.484375 31.171875 21.11875 24.38125 8.696875 31.171875 22.359375 16.665625 28.88125 23.45625 41.15 16.665625"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

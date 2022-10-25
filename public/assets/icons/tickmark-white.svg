@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="75px" viewBox="0 0 75 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 11</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="MY-ACCOUNT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Verificacion-2" transform="translate(-124.000000, -489.000000)">
+            <g id="Check" transform="translate(15.000000, 430.000000)" filter="url(#filter-1)">
+                <g transform="translate(109.275362, 61.726619)" id="Group-11" stroke="#8DC699" stroke-width="5">
+                    <line x1="3.24769433" y1="42.2776324" x2="29.229249" y2="68.294637" id="Line-6"></line>
+                    <line x1="71.4492754" y1="0" x2="29.229249" y2="68.294637" id="Line-6-Copy"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

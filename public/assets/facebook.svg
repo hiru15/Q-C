@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="320px" viewBox="0 0 320 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>facebook</title>
+    <g id="HOME" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Menu-logged" transform="translate(0.000000, -932.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="facebook" transform="translate(0.000000, 932.000000)">
+                <path d="M280,0 L40,0 C17.94,0 0,17.94 0,40 L0,280 C0,302.06 17.94,320 40,320 L160,320 L160,210 L120,210 L120,160 L160,160 L160,120 C160,86.86 186.86,60 220,60 L260,60 L260,110 L240,110 C228.96,110 220,108.96 220,120 L220,160 L270,160 L250,210 L220,210 L220,320 L280,320 C302.06,320 320,302.06 320,280 L320,40 C320,17.94 302.06,0 280,0 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

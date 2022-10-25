@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>facebook</title>
+    <g id="MY-ACCOUNT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Referidos" transform="translate(-563.000000, -391.000000)" fill-rule="nonzero">
+            <g id="Path" transform="translate(563.000000, 391.000000)">
+                <path d="M43.75,0 L6.25,0 C2.803125,0 0,2.803125 0,6.25 L0,43.75 C0,47.196875 2.803125,50 6.25,50 L43.75,50 C47.196875,50 50,47.196875 50,43.75 L50,6.25 C50,2.803125 47.196875,0 43.75,0 Z" fill="#1976D2"></path>
+                <path d="M42.1875,25 L34.375,25 L34.375,18.75 C34.375,17.025 35.775,17.1875 37.5,17.1875 L40.625,17.1875 L40.625,9.375 L34.375,9.375 L34.375,9.375 C29.196875,9.375 25,13.571875 25,18.75 L25,25 L18.75,25 L18.75,32.8125 L25,32.8125 L25,50 L34.375,50 L34.375,32.8125 L39.0625,32.8125 L42.1875,25 Z" fill="#FAFAFA"></path>
+            </g>
+        </g>
+    </g>
+</svg>

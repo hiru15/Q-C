@@ -1,0 +1,96 @@
+.contact_first {
+    padding: 40px 15px 40px;
+}
+.contact_first .containerBoxes {
+    background: url(/assets/marco-right.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: auto;
+    padding: 40px;
+    position: relative;
+}
+.contact_first .containerBoxes span {
+    color: #ff6b00;
+    font-size: 14px;
+    font-family: "Montserrat-SemiBold", sans-serif;
+}
+.contact_first .containerBoxes h3 {
+    color: #5d5d5d;
+    font-size: 25px;
+    font-family: "Montserrat-Black", sans-serif;
+    padding-bottom: 5px;
+    position: relative;
+    margin-bottom: 50px;
+}
+.contact_first .containerBoxes h3::before {
+    content: "";
+    position: absolute;
+    width: 10%;
+    height: 4px;
+    top: 100%;
+    left: 0px;
+    background-color: #ff6b00;
+}
+.contact_first .containerBoxes article {
+    color: #999999;
+    font-family: "Montserrat-SemiBold", sans-serif;
+    font-size: 14px;
+    margin-bottom: 30px;
+    line-height: 25px;
+}
+strong {
+    font-family: "Montserrat-Bold", sans-serif;
+    color: #000;
+}
+
+.contact_first .boxDatos {
+    background-color: #f7f7f7;
+    padding: 20px 15px 40px;
+}
+.contact_first .boxDatos span {
+    display: block;
+    color: #5d5d5d;
+    font-size: 18px;
+    font-family: "Montserrat-Black", sans-serif;
+    margin: 0 0 20px;
+}
+.contact_first .boxDatos .row span {
+    display: block;
+    font-family: "Akrobat-Regular", sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    color: #5d5d5d;
+}
+.contact_first .boxDatos .row p {
+    font-family: "Akrobat-Regular", sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+    color: #5d5d5d;
+}
+.formContacto{
+    padding: 15px;
+}
+.form-bg {
+    background-color: #f1f1f1;
+}
+.formContacto .row span {
+    display: block;
+    color: #5d5d5d;
+    font-size: 18px;
+    font-family: "Montserrat-Black", sans-serif;
+    margin: 10px 0;
+}
+.formContacto label {
+    color: #5d5d5d;
+    font-family: "Akrobat-Regular", sans-serif;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.formContacto .form-control {
+    border: 3px solid #d0d3d4;
+    outline: 0 none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border-radius: 0;
+    font-family: "Montserrat-SemiBold", sans-serif;
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="19px" viewBox="0 0 10 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Path</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 0.658824 0 0 0 0 0.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="HOME" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-241.000000, -1288.000000)">
+            <g id="cheuron" transform="translate(70.000000, 1283.000000)" filter="url(#filter-1)">
+                <g transform="translate(171.000000, 5.000000)" id="Group" fill="#FFA800" fill-rule="nonzero">
+                    <g id="Path">
+                        <path d="M9.75590106,8.88907823 L1.42255579,0.252955808 C1.09717408,-0.0843309716 0.56948065,-0.0843309716 0.244063136,0.253030027 C-0.0813185704,0.590316807 -0.0813185704,1.13712291 0.244134751,1.47437258 L7.98819789,9.49986084 L0.244027329,17.5257202 C-0.0813543778,17.863007 -0.0813543778,18.4098131 0.244098944,18.7470627 C0.406771893,18.9156876 0.620040678,19 0.833309462,19 C1.04657825,19 1.25988284,18.9157247 1.4225916,18.7470256 L9.75590106,10.1104579 C9.9122361,9.94851275 10,9.72886257 10,9.49982373 C10,9.27074778 9.9122361,9.0510605 9.75590106,8.88907823 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

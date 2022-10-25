@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Capa_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 454"
+	 style="enable-background:new 0 0 512 454;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#333333;}
+</style>
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  bottomLeftOrigin="true" height="452.7" width="512" x="0" y="0.7"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<title>warning-sign</title>
+<g id="Components">
+	<g id="warning-sign">
+		<g>
+			<path id="Shape" class="st0" d="M507.3,400.9l-221-382.7c-13.5-23.3-47.1-23.3-60.6,0L4.7,400.9c-13.5,23.3,3.3,52.5,30.3,52.5
+				H477C503.9,453.3,520.7,424.2,507.3,400.9z M477,423.4H35c-3.8,0-6.3-4.1-4.3-7.5l221-382.7c1.9-3.3,6.7-3.4,8.7,0l221,382.7
+				C483.2,419.2,480.8,423.4,477,423.4z"/>
+			<circle id="Oval" class="st0" cx="256.2" cy="364.7" r="18.1"/>
+			<path id="Path" class="st0" d="M256.2,320.2c8.3,0,15-6.7,15-15V133.8c0-8.3-6.7-15-15-15s-15,6.7-15,15v171.4
+				C241.2,313.5,247.9,320.2,256.2,320.2L256.2,320.2z"/>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,83 @@
+.about_us_first_container{
+    padding: 40px 15px 40px
+}
+
+.about_us_first_container .containerBoxes{
+    background: url(/assets/marco-right.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: auto;
+    padding: 40px;
+    position: relative;
+}
+
+.about_us_first_container .containerBoxes span {
+    color: #ff6b00;
+    font-size: 14px;
+    font-family: "Montserrat-SemiBold", sans-serif;
+}
+
+.about_us_first_container .containerBoxes h3{
+    color: #5d5d5d;
+    font-size: 25px;
+    font-family: "Montserrat-Black", sans-serif;
+    padding-bottom: 5px;
+    position: relative;
+    margin-bottom: 50px;
+}
+
+.about_us_first_container .containerBoxes h3::before{
+    content: "";
+    position: absolute;
+    width: 10%;
+    height: 4px;
+    top: 100%;
+    left: 0px;
+    background-color: #ff6b00;
+}
+
+.about_us_first_container .containerBoxes article {
+    color: #999999;
+    font-family: "Montserrat-SemiBold", sans-serif;
+    font-size: 14px;
+    margin-bottom: 30px;
+    line-height: 25px;
+}
+
+.about_us_first_container .containerBoxes img {
+    width: 100%;
+    min-height: 230px;
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+
+.about_us_first_container .boxVision span {
+    display: block;
+    color: #5d5d5d;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: "Montserrat-Black", sans-serif;
+    margin: 6px 0;
+}
+
+.about_us_first_container .boxVision p {
+    color: #5d5d5d;
+    font-size: 14px;
+    font-family: "Akrobat-Regular", sans-serif;
+}
+
+.about_us_first_container .boxMision span {
+    display: block;
+    color: #5d5d5d;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: "Montserrat-Black", sans-serif;
+    margin: 6px 0;
+}
+
+.about_us_first_container .boxMision p {
+    color: #5d5d5d;
+    font-size: 14px;
+    font-family: "Akrobat-Regular", sans-serif;
+}

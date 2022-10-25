@@ -1,0 +1,98 @@
+.proyect_first {
+    padding: 40px 15px 0px;
+}
+.proyect_first .containerBoxes span {
+    color: #ff6b00;
+    font-size: 14px;
+    font-family: "Montserrat-SemiBold", sans-serif;
+}
+.proyect_first .containerBoxes h3 {
+    color: #5d5d5d;
+    font-size: 50px;
+    font-family: "Montserrat-Black", sans-serif;
+    padding-bottom: 5px;
+    position: relative;
+    line-height: 45px;
+    margin-bottom: 50px;
+}
+.proyect_first .containerBoxes h3::before {
+    content: "";
+    position: absolute;
+    width: 10%;
+    height: 4px;
+    top: 110%;
+    left: 0px;
+    background-color: #ff6b00;
+}
+.proyect_first .containerBoxes p {
+    color: #999999;
+    font-size: 16px;
+    font-family: "Montserrat-SemiBold", sans-serif;
+    padding-top: 30px;
+}
+.proyect_second .containerBoxes .descriptionBox {
+    margin-bottom: 10%;
+    position: relative;
+    cursor: pointer;
+}
+.proyect_second  .containerBoxes{
+    background: url(/assets/marco-left.png), url(/assets/marco-right.png);
+    background-repeat: no-repeat, no-repeat;
+    background-position: bottom left, top right;
+    background-size: auto, auto;
+    padding: 40px;
+    position: relative;
+}
+.proyect_second .containerBoxes .descriptionBox .hover-proyect-img {
+    overflow: hidden;
+}
+.proyect_second .containerBoxes .descriptionBox img {
+    -webkit-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;
+    width: 100%;
+    min-height: 270px;
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+    max-height: 270px;
+}
+.proyect_second .containerBoxes .descriptionBox .description {
+    color: #ffffff;
+    position: absolute;
+    bottom: 0;
+    /* padding: 20px 20px; */
+    width: 100%;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0.85) 100%);
+}
+
+.proyect_second .containerBoxes .descriptionBox .description a {
+    color: #fff;
+    font-size: 15px;
+    display: block;
+    padding: 20px 12px 20px 15px;
+    -moz-transition-duration: .4s;
+    -webkit-transition-duration: .4s;
+    -o-transition-duration: .4s;
+    transition-duration: .4s;
+    text-decoration: none;
+}
+.proyect_second .containerBoxes .descriptionBox .description a p {
+    font-family: "Montserrat-ExtraBold", sans-serif;
+    margin: 0;
+    font-size: 18px;
+    line-height: 20px;
+}
+.proyect_second .containerBoxes .descriptionBox .description a span {
+    font-family: "Akrobat-Regular", sans-serif;
+    color: #ffffff;
+    line-height: 14px;
+    display: block;
+}
+.proyect_second .containerBoxes .descriptionBox .description img {
+    width: auto !important;
+    position: relative;
+    top: 25%;
+    min-height: auto;
+    height: auto;
+}

@@ -1,0 +1,91 @@
+.navbar {
+  margin-top: 15px;
+}
+
+.navbarTop {
+  background-color: #243559 !important;
+  padding: 8px 0;
+  max-height: 40px;
+}
+
+.navbarTop .social-media {
+  margin: 40px 0;
+}
+
+.navbarTop .social-media img {
+  margin-left: 25px;
+}
+
+.navbarTop span{
+  color: white;
+}
+
+.navbar-dark .navbar-nav a {
+    color: #ffffff;
+    font-family: "Montserrat-SemiBold", sans-serif;
+    text-transform: uppercase;
+    position: relative;
+    font-size: 14px;
+    display: block;
+    padding: 10px 0;
+    margin: 0 12px;
+    -webkit-transition: color 0.1s,background-color 0.1s,padding 0.2s ease-in;
+    -o-transition: color 0.1s,background-color 0.1s,padding 0.2s ease-in;
+    transition: color 0.1s,background-color 0.1s,padding 0.2s ease-in;
+}
+
+.navbar-dark .navbar-nav a::before{
+  content: '';
+  display: block;
+  position: absolute;
+  bottom: -3px;
+  left: 0;
+  height: 3px;
+  width: 100%;
+  background-color: #ff6b00;
+  -webkit-transform-origin: right top;
+  -ms-transform-origin: right top;
+  transform-origin: right top;
+  -webkit-transform: scale(0, 1);
+  -ms-transform: scale(0, 1);
+  transform: scale(0, 1);
+  -webkit-transition: color 0.1s,-webkit-transform 0.2s ease-out;
+  transition: color 0.1s,-webkit-transform 0.2s ease-out;
+  -o-transition: color 0.1s,transform 0.2s ease-out;
+  transition: color 0.1s,transform 0.2s ease-out;
+  transition: color 0.1s,transform 0.2s ease-out,-webkit-transform 0.2s ease-out;
+}
+
+.navbar-toggler{
+  background-color: #ff6b00;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+  background-color: #eee;
+}
+
+.navbar-earlycollapse {
+  @media (max-width: 991px) {
+    .navbar-header, .navbar-nav, .navbar-nav>li {
+      float: none;
+    }
+    .navbar-nav {
+      margin: 7.5px -15px;
+    }
+    .navbar-collapse.collapse {
+      display: none!important;
+      border-top: 1px solid #e7e7e7;
+      &.in {
+        display: block!important;
+      }
+    }
+    .navbar-toggle {
+      display: block;
+    }
+    .navbar-nav>li>a {
+      padding-top: 10px;
+      padding-bottom: 10px;
+    }
+  }
+}
+  

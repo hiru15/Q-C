@@ -1,0 +1,134 @@
+.containerInfo {
+    background: url(/assets/marco-right.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: auto;
+    padding: 40px;
+    position: relative;
+}
+
+.containerInfo span {
+    color: #ff6b00;
+    font-size: 14px;
+    font-family: "Montserrat-SemiBold", sans-serif;
+}
+
+.containerInfo h3 {
+    color: #5d5d5d;
+    font-size: 25px;
+    font-family: "Montserrat-Black", sans-serif;
+    padding-bottom: 5px;
+    position: relative;
+    margin-bottom: 50px;
+}
+
+.containerInfo h3::before {
+    content: "";
+    position: absolute;
+    width: 10%;
+    height: 4px;
+    top: 100%;
+    left: 0;
+    background-color: #ff6b00;
+}
+
+.containerInfo article {
+    color: #999999;
+    font-family: "Montserrat-SemiBold", sans-serif;
+    font-size: 14px;
+    margin-bottom: 30px;
+    line-height: 25px;
+}
+.services_first .containerBoxes {
+    color: #999999;
+    font-size: 16px;
+    font-family: "Montserrat-SemiBold", sans-serif;
+    padding-top: 30px;
+}
+.services_first .containerBoxes span {
+    color: #ff6b00;
+    font-size: 14px;
+    font-family: "Montserrat-SemiBold", sans-serif;
+}
+.services_first .containerBoxes h3 {
+    color: #5d5d5d;
+    font-size: 35px;
+    font-family: "Montserrat-Black", sans-serif;
+    padding-bottom: 5px;
+    position: relative;
+    margin-bottom: 50px;
+}
+.boxBeneficios {
+    background-color: #f7f7f7;
+    padding: 40px 35px;
+}
+.boxBeneficios span {
+    display: block;
+    color: #5d5d5d;
+    font-size: 30px;
+    font-family: "Montserrat-Black", sans-serif;
+    margin: 10px 0;
+}
+
+.boxBeneficios ul {
+    list-style: none;
+    margin-bottom: 25px;
+}
+.boxBeneficios ul li {
+    font-family: "Akrobat-Regular", sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    color: #5d5d5d;
+}
+.boxBeneficios ul li::before {
+    content: "\2022";
+    color: #ff6b00;
+    font-weight: bold;
+    display: inline-block;
+    width: 8px;
+    /* margin-left: -1em; */
+}
+
+.containerInfo .btn-gris {
+    text-decoration: none;
+    display: inline-block;
+}
+
+.gallery-int #panel {
+    min-height: 325px;
+}
+
+.gallery-int #panel a {
+    min-height: 325px;
+    display: block;
+}
+
+.gallery-int #panel a img {
+    width: 100%;
+    height: 350px;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+.gallery-int #imagenPequena-int {
+    position: relative;
+}
+
+.gallery-int #imagenPequena-int  .containerImagen {
+    width: 30%;
+}
+
+.gallery-int #imagenPequena-int  .containerImagen .cajaImg {
+    position: relative;
+    max-height: 100px;
+    overflow: hidden;
+    min-height: 100px;
+    margin: 6px 2%;
+    cursor: pointer;
+}
+
+.gallery-int #imagenPequena-int  .containerImagen .cajaImg a img {
+    width: 100%;
+    height: 100px;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
